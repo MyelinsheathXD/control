@@ -1,3 +1,15 @@
+python 2.7
+
+python run.py arm2_python  trace reach
+
+python run.py arm2_python  lqr reach
+
+python run.py arm2_python  trajectory reach
+
+---> works these
+python run.py arm2_python  lqr reach        
+
+
 ============================================
 StudyWolf Control repo
 ============================================
